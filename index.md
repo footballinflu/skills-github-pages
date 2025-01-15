@@ -1,4 +1,3 @@
 ---
-The Start: Welcome to my blog
+title: Welcome to my blog
 ---
-doing by learning
